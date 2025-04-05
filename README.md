@@ -1,4 +1,4 @@
-# Vue Jobs Project (YouTube)
+# Vue Jobs Project
 
 This is a job listing project built using Vue.js and Tailwind CSS.
 
