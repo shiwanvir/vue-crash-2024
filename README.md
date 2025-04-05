@@ -1,6 +1,6 @@
 # Vue Jobs Project (YouTube)
 
-This is the jobs listing project from the [YouTube crash course](https://www.youtube.com/watch?v=VeNfHj6MhgA).
+This is a job listing project built using Vue.js and Tailwind CSS.
 
 <img src="public/screen.png" />
 
